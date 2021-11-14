@@ -1,0 +1,26 @@
+{
+  "name": "cksource-changeloger",
+  "version": "1.0.0",
+  "description": "An application that tracks the changes in the new versions of the cksoruce text editor.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eszymanski98/cksource-changeloger.git"
+  },
+  "keywords": [
+    "changelog"
+  ],
+  "author": "Ernest Szymański",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eszymanski98/cksource-changeloger/issues"
+  },
+  "homepage": "https://github.com/eszymanski98/cksource-changeloger#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
